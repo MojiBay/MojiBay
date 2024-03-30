@@ -2,7 +2,7 @@
 - 👀 I’m interested in where data science and psychology meet.
 - 🌱 I’m an engineering graduate currently learning data analytics.
 - 💞️ I’m looking to collaborate on data analysis projects and kaggle competitions.
-- 📫 How to reach me mojde.sabery@gmail.com
+- 📫 How to reach me 
 
 <!---
 MojiBay/MojiBay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
